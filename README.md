@@ -14,3 +14,12 @@ code?
 ```
 ---
 text
+
+::fire::
+:fire:
+
+:tada:
+
+::tada::
+
+
