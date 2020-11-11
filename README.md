@@ -5,7 +5,7 @@ Link images like this
 
 ![this](images/test.jpg)
 
-![or like this](/images/test-2.jpg)
+![or like this](images/test-2.jpg)
 
 
 - bullet point?
