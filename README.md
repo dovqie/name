@@ -5,6 +5,10 @@
 ##### five hash
 ###### six hash
 
+unicode:
+
+&#9658;
+
 ---
 
 some text<br>
@@ -13,7 +17,7 @@ some text<br>
 
 line break
 
-Link images like this
+Link images like this:
 
 ![this](images/test.jpg)
 
