@@ -7,9 +7,11 @@
 
 unicode:
 
-&#9658;
-&#2192
-&#2192;
+some unicode &#9658;
+
+some unicode &#2192
+
+some unicode &#2192;
 
 ---
 
