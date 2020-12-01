@@ -7,6 +7,10 @@
 
 ---
 
+some text<br>
+<br>
+<br>
+
 line break
 
 Link images like this
