@@ -14,6 +14,7 @@ some unicode &#2192 here
 some unicode &#2192; here
 
 warning &#9888; warning
+
 :warning:
 
 ---
